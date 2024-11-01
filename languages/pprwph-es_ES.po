@@ -1,0 +1,545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Filkers WooCommerce Marketing\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-31 14:12+0000\n"
+"PO-Revision-Date: 2024-09-07 09:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: filkers"
+
+#: includes/class-pprwph-post-type-white.php:123
+#: includes/class-pprwph-post-type-one.php:28
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#: includes/class-pprwph-post-type-one.php:27
+msgid "Add new Onepaper section"
+msgstr "Añadir nueva sección de Onepaper"
+
+#: includes/class-pprwph-taxonomies-one.php:30
+msgid "Add New Onepaper section category"
+msgstr "Agregar nueva categoría de sección de Onepaper"
+
+#: includes/class-pprwph-post-type-white.php:122
+msgid "Add new Whitepaper section"
+msgstr "Añadir nueva sección de Libro blanco"
+
+#: includes/class-pprwph-taxonomies-white.php:30
+msgid "Add New Whitepaper section category"
+msgstr "Agregar nueva categoría de sección de Libro blanco"
+
+#: includes/class-pprwph-taxonomies-one.php:25
+msgid "All Onepaper section categories"
+msgstr "Todas las categorías de la sección Onepaper"
+
+#: includes/class-pprwph-post-type-one.php:25
+msgid "All Onepaper sections"
+msgstr "Todas las secciones de Onepaper"
+
+#: includes/class-pprwph-taxonomies-white.php:25
+msgid "All Whitepaper section categories"
+msgstr "Todas las categorías de la sección Libro blanco"
+
+#: includes/class-pprwph-post-type-white.php:120
+msgid "All Whitepaper sections"
+msgstr "Todas las secciones del Libro Blanco"
+
+#: includes/class-pprwph-common.php:123
+msgid "An error has occurred. Please try again in a few minutes."
+msgstr "Se ha producido un error. Inténtalo de nuevo en unos minutos."
+
+#: includes/class-pprwph-post-type-white.php:327
+#: includes/class-pprwph-post-type-white.php:425
+msgid "Back to main"
+msgstr "Volver a la página principal"
+
+#: includes/class-pprwph-post-type-white.php:515
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/class-pprwph-post-type-white.php:609
+msgid "Configure section"
+msgstr "Configurar sección"
+
+#: includes/class-pprwph-post-type-white.php:102
+msgid "Create section"
+msgstr "Crear sección"
+
+#: includes/class-pprwph-post-type-white.php:385
+#: includes/class-pprwph-post-type-white.php:389
+msgid "Current section"
+msgstr "Sección actual"
+
+#: includes/class-pprwph-post-type-white.php:353
+msgid "Current subsection"
+msgstr "Subsección actual"
+
+#: includes/class-pprwph-common.php:134
+msgid "Edit audio"
+msgstr "Editar audio"
+
+#: includes/class-pprwph-common.php:135
+msgid "Edit audios"
+msgstr "Editar audios"
+
+#: includes/class-pprwph-common.php:138
+msgid "Edit file"
+msgstr "Editar archivo"
+
+#: includes/class-pprwph-common.php:139
+msgid "Edit files"
+msgstr "Editar archivos"
+
+#: includes/class-pprwph-common.php:126
+msgid "Edit image"
+msgstr "Editar imagen"
+
+#: includes/class-pprwph-common.php:127
+msgid "Edit images"
+msgstr "Editar imágenes"
+
+#: includes/class-pprwph-post-type-one.php:29
+msgid "Edit Onepaper section"
+msgstr "Editar sección de Onepaper"
+
+#: includes/class-pprwph-taxonomies-one.php:28
+msgid "Edit Onepaper section category"
+msgstr "Editar la categoría de la sección Onepaper"
+
+#: includes/class-pprwph-post-type-white.php:102
+#: includes/class-pprwph-post-type-white.php:332
+#: includes/class-pprwph-post-type-white.php:430
+#: includes/class-pprwph-post-type-white.php:605
+msgid "Edit section"
+msgstr "Editar sección"
+
+#: includes/class-pprwph-common.php:130
+msgid "Edit video"
+msgstr "Editar video"
+
+#: includes/class-pprwph-common.php:131
+msgid "Edit videos"
+msgstr "Editar vídeos"
+
+#: includes/class-pprwph-post-type-white.php:124
+msgid "Edit Whitepaper section"
+msgstr "Editar la sección del Libro Blanco"
+
+#: includes/class-pprwph-taxonomies-white.php:28
+msgid "Edit Whitepaper section category"
+msgstr "Editar la categoría de la sección del Libro Blanco"
+
+#. Author URI of the plugin
+msgid "https://wordpress-heroes.com/"
+msgstr "https://wordpress-heroes.com/"
+
+#. URI of the plugin
+msgid "https://wordpress-heroes.com/plugins/pprwph/"
+msgstr "https://wordpress-heroes.com/plugins/pprwph/"
+
+#: includes/class-pprwph-menus.php:48
+msgid ""
+"If you activate this option the plugin will remove all options on "
+"deactivation. Please, be careful. This process cannot be undone."
+msgstr ""
+"Si activa esta opción, el complemento eliminará todas las opciones al "
+"desactivarla. Por favor tenga cuidado. Este proceso no se puede deshacer."
+
+#: includes/class-pprwph-post-type-white.php:50
+#: includes/class-pprwph-post-type-white.php:51
+msgid "It is a child section"
+msgstr "Es una sección infantil"
+
+#: includes/class-pprwph-post-type-white.php:556
+#: includes/class-pprwph-post-type-white.php:581
+msgid "It opens in new tab"
+msgstr "Se abre en una nueva pestaña"
+
+#: includes/class-pprwph-post-type-white.php:472
+msgid "Last update"
+msgstr "Última actualización"
+
+#: includes/class-pprwph-post-type-white.php:519
+#: includes/class-pprwph-forms.php:176
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: includes/class-pprwph-taxonomies-one.php:31
+msgid "New Onepaper section category"
+msgstr "Nueva categoría de la sección Onepaper"
+
+#: includes/class-pprwph-post-type-white.php:467
+msgid "New section"
+msgstr "Nueva sección"
+
+#: includes/class-pprwph-taxonomies-white.php:31
+msgid "New Whitepaper section category"
+msgstr "Nueva categoría de sección de Libro blanco"
+
+#: includes/class-pprwph-post-type-white.php:397
+msgid "Next section"
+msgstr "Sección siguiente"
+
+#: includes/class-pprwph-post-type-white.php:362
+msgid "Next subsection"
+msgstr "Subsección siguiente"
+
+#: includes/class-pprwph-post-type-one.php:32
+msgid "Not Onepaper found"
+msgstr "No se encontró Onepaper"
+
+#: includes/class-pprwph-post-type-one.php:33
+msgid "Not Onepaper found in Trash"
+msgstr "No se encontró Onepaper en la papelera"
+
+#: includes/class-pprwph-post-type-white.php:127
+msgid "Not Whitepaper found"
+msgstr "No se encontraron recetas CPT"
+
+#: includes/class-pprwph-post-type-white.php:128
+msgid "Not Whitepaper found in Trash"
+msgstr "No se encontraron recetas CPT en la papelera"
+
+#: includes/class-pprwph-post-type-one.php:40
+msgid "Onepaper description"
+msgstr "Descripción de Onepaper"
+
+#: includes/class-pprwph-post-type-one.php:23
+#: includes/class-pprwph-post-type-one.php:39
+msgid "Onepaper section"
+msgstr "Sección de un solo artículo"
+
+#: includes/class-pprwph-taxonomies-one.php:32
+msgid "Onepaper section categories"
+msgstr "Categorías de secciones de Onepaper"
+
+#: includes/class-pprwph-forms.php:355 includes/class-pprwph-forms.php:371
+msgid "Order element"
+msgstr "Elemento de orden"
+
+#: includes/class-pprwph-common.php:147
+msgid "Order updated successfully"
+msgstr "Pedido actualizado exitosamente"
+
+#: includes/class-pprwph-common.php:142
+msgid "Ordered element"
+msgstr "Elemento ordenado"
+
+#: includes/class-pprwph-post-type-one.php:24
+msgid "Parent Onepaper section"
+msgstr "Sección de un artículo para padres"
+
+#: includes/class-pprwph-taxonomies-one.php:26
+msgid "Parent Onepaper section category"
+msgstr "Sección de Onepaper para padres, categoría"
+
+#: includes/class-pprwph-taxonomies-one.php:27
+msgid "Parent Onepaper section category:"
+msgstr "Categoría de la sección de Onepaper para padres:"
+
+#: includes/class-pprwph-post-type-white.php:60
+#: includes/class-pprwph-post-type-white.php:61
+msgid "Parent section"
+msgstr "Sección para padres"
+
+#: includes/class-pprwph-post-type-white.php:119
+msgid "Parent Whitepaper section"
+msgstr "Sección del libro blanco para padres"
+
+#: includes/class-pprwph-taxonomies-white.php:26
+msgid "Parent Whitepaper section category"
+msgstr "Categoría de la sección del Libro blanco para padres"
+
+#: includes/class-pprwph-taxonomies-white.php:27
+msgid "Parent Whitepaper section category:"
+msgstr "Categoría de la sección del libro blanco para padres:"
+
+#: includes/class-pprwph-common.php:124
+msgid "Please create a new user or login to save the information."
+msgstr ""
+"Por favor crea un nuevo usuario o inicia sesión para guardar la información."
+
+#: includes/class-pprwph-common.php:148
+msgid "Please provide a valid link for this section"
+msgstr "Proporcione un enlace válido para esta sección"
+
+#: includes/class-pprwph-common.php:149
+msgid "Please provide a valid parent page for this section"
+msgstr "Proporcione una página principal válida para esta sección"
+
+#: includes/class-pprwph-menus.php:39
+msgid "Plugin version"
+msgstr "Versión del complemento"
+
+#: includes/class-pprwph-post-type-one.php:21
+msgctxt "Post Type general name"
+msgid "Onepaper section"
+msgstr "Sección de un solo artículo"
+
+#: includes/class-pprwph-post-type-white.php:116
+#| msgid "Whitepaper"
+msgctxt "Post Type general name"
+msgid "Whitepaper section"
+msgstr "Sección del libro blanco"
+
+#: includes/class-pprwph-post-type-one.php:22
+msgctxt "Post Type singular name"
+msgid "Onepaper section"
+msgstr "Sección de un solo artículo"
+
+#: includes/class-pprwph-post-type-white.php:117
+msgctxt "Post Type singular name"
+msgid "Whitepaper section"
+msgstr "Sección del libro blanco"
+
+#: includes/class-pprwph-post-type-white.php:376
+msgid "Previous section"
+msgstr "Sección anterior"
+
+#: includes/class-pprwph-post-type-white.php:344
+msgid "Previous subsection"
+msgstr "Subsección anterior"
+
+#: includes/class-pprwph-post-type-white.php:68
+msgid "Publish section?"
+msgstr "¿Publicar sección?"
+
+#: includes/class-pprwph-menus.php:47
+msgid "Remove plugin options on deactivation"
+msgstr "Eliminar las opciones del plugin al desactivarlo"
+
+#: includes/class-pprwph-post-type-white.php:519
+#: includes/class-pprwph-post-type-white.php:613
+msgid "Remove section"
+msgstr "Quitar sección"
+
+#: includes/class-pprwph-post-type-white.php:553
+#: includes/class-pprwph-post-type-white.php:578
+msgid "Reorder section"
+msgstr "Sección de reordenamiento"
+
+#: includes/class-pprwph-menus.php:59
+msgid "Save options"
+msgstr ""
+"Guardar opciones\n"
+
+#: includes/class-pprwph-common.php:125
+msgid "Saved successfully"
+msgstr "Guardado con éxito"
+
+#: includes/class-pprwph-taxonomies-one.php:24
+msgid "Search Onepaper section categories"
+msgstr "Buscar en las categorías de la sección Onepaper"
+
+#: includes/class-pprwph-post-type-one.php:31
+msgid "Search Onepaper sections"
+msgstr "Buscar secciones de Onepaper"
+
+#: includes/class-pprwph-taxonomies-white.php:24
+msgid "Search Whitepaper section categories"
+msgstr "Buscar categorías de la sección Libro blanco"
+
+#: includes/class-pprwph-post-type-white.php:126
+msgid "Search Whitepaper sections"
+msgstr "Buscar secciones del libro blanco"
+
+#: includes/class-pprwph-common.php:144
+msgid "Section added successfully"
+msgstr "Sección añadida con éxito"
+
+#: includes/class-pprwph-common.php:143
+msgid "Section created successfully"
+msgstr "Sección creada exitosamente"
+
+#: includes/class-pprwph-post-type-white.php:77
+#: includes/class-pprwph-post-type-white.php:78
+msgid "Section is an external link"
+msgstr "La sección es un enlace externo"
+
+#: includes/class-pprwph-post-type-white.php:87
+#: includes/class-pprwph-post-type-white.php:88
+msgid "Section link"
+msgstr "Enlace de sección"
+
+#: includes/class-pprwph-post-type-white.php:67
+msgid "Section published?"
+msgstr "¿Sección publicada?"
+
+#: includes/class-pprwph-common.php:145
+msgid "Section removed successfully"
+msgstr "Sección eliminada exitosamente"
+
+#: includes/class-pprwph-post-type-white.php:35
+#: includes/class-pprwph-post-type-white.php:36
+msgid "Section title"
+msgstr "Título de la sección"
+
+#: includes/class-pprwph-common.php:146
+msgid "Section updated successfully"
+msgstr "Sección actualizada exitosamente"
+
+#: includes/class-pprwph-common.php:136
+msgid "Select audio"
+msgstr "Seleccionar audio"
+
+#: includes/class-pprwph-common.php:137
+msgid "Select audios"
+msgstr "Seleccionar audios"
+
+#: includes/class-pprwph-common.php:140
+msgid "Select file"
+msgstr "Seleccione archivo"
+
+#: includes/class-pprwph-common.php:141
+msgid "Select files"
+msgstr "Selecciona archivos"
+
+#: includes/class-pprwph-common.php:128
+msgid "Select image"
+msgstr "Seleccionar imagen"
+
+#: includes/class-pprwph-common.php:129
+msgid "Select images"
+msgstr "Seleccionar imágenes"
+
+#: includes/class-pprwph-common.php:132
+msgid "Select video"
+msgstr "Seleccionar vídeo"
+
+#: includes/class-pprwph-common.php:133
+msgid "Select videos"
+msgstr "Seleccionar vídeos"
+
+#: includes/class-pprwph-menus.php:40
+msgid "Set the plugin version that will be shown in the Whitepaper documents."
+msgstr ""
+"Establezca la versión del complemento que se mostrará en los documentos del "
+"documento técnico."
+
+#: includes/class-pprwph-menus.php:71
+msgid "Settings"
+msgstr "Ajustes"
+
+#. Description of the plugin
+msgid ""
+"Simple and usefull Whitepaper manager and portfolio plugin for WordPress."
+msgstr ""
+"Administrador de documentos técnicos y complemento de cartera simple y útil "
+"para WordPress."
+
+#: includes/class-pprwph-taxonomies-one.php:22
+msgctxt "Taxonomy general name"
+msgid "Onepaper section categories"
+msgstr "Categorías de secciones de Onepaper"
+
+#: includes/class-pprwph-taxonomies-white.php:22
+msgctxt "Taxonomy general name"
+msgid "Whitepaper section categories"
+msgstr "Categorías de secciones del libro blanco"
+
+#: includes/class-pprwph-taxonomies-one.php:23
+msgctxt "Taxonomy singular name"
+msgid "Onepaper section category"
+msgstr "Categoría de la sección de Onepaper"
+
+#: includes/class-pprwph-taxonomies-white.php:23
+msgctxt "Taxonomy singular name"
+msgid "Whitepaper section category"
+msgstr "Categoría de la sección del libro blanco"
+
+#: includes/class-pprwph-post-type-white.php:511
+msgid "The section will be permanently removed."
+msgstr "La sección será eliminada permanentemente."
+
+#: includes/class-pprwph-menus.php:23
+#| msgid ""
+#| "This option sets the slug of the main recipes archive page, and the "
+#| "recipe pages. By default they will be:"
+msgid ""
+"This option sets the slug of the main whitepaper archive page, and the "
+"whitepaper pages. By default they will be:"
+msgstr ""
+"Esta opción establece el slug de la página principal del archivo de "
+"documentos técnicos y de las páginas de los documentos técnicos. De forma "
+"predeterminada, serán:"
+
+#: includes/class-pprwph-post-type-white.php:460
+msgid "This Whitepaper has no sections yet."
+msgstr "Este documento técnico aún no tiene secciones."
+
+#: includes/class-pprwph-post-type-one.php:30
+msgid "Update Onepaper section"
+msgstr "Actualizar la sección Onepaper"
+
+#: includes/class-pprwph-taxonomies-one.php:29
+msgid "Update Onepaper section category"
+msgstr "Actualizar la categoría de la sección Onepaper"
+
+#: includes/class-pprwph-post-type-white.php:125
+msgid "Update Whitepaper section"
+msgstr "Actualización de la sección del Libro Blanco"
+
+#: includes/class-pprwph-taxonomies-white.php:29
+msgid "Update Whitepaper section category"
+msgstr "Actualizar la categoría de la sección del Libro blanco"
+
+#: includes/class-pprwph-post-type-white.php:450
+msgid "Version"
+msgstr "Versión"
+
+#: includes/class-pprwph-post-type-one.php:26
+msgid "View Onepaper section"
+msgstr "Ver la sección Onepaper"
+
+#: includes/class-pprwph-post-type-white.php:121
+msgid "View Whitepaper section"
+msgstr "Ver la sección del Libro Blanco"
+
+#: includes/class-pprwph-post-type-white.php:135
+msgid "Whitepaper description"
+msgstr "Descripción de recetas CPT"
+
+#. Name of the plugin
+#: includes/class-pprwph-activator.php:25
+msgid "Whitepaper manager - WPH"
+msgstr "Gestor de recetas - WPH"
+
+#: includes/class-pprwph-menus.php:77
+msgid "Whitepaper Manager - WPH Options"
+msgstr "Administrador de documentos técnicos: opciones de WPH"
+
+#: includes/class-pprwph-post-type-white.php:134
+msgid "Whitepaper section"
+msgstr "Sección del libro blanco"
+
+#: includes/class-pprwph-taxonomies-white.php:32
+msgid "Whitepaper section categories"
+msgstr "Categorías de secciones del libro blanco"
+
+#: includes/class-pprwph-post-type-white.php:187
+msgid "Whitepaper section details"
+msgstr "Detalles de la sección del libro blanco"
+
+#: includes/class-pprwph-post-type-white.php:118
+msgid "Whitepaper sections"
+msgstr "Secciones del libro blanco"
+
+#: includes/class-pprwph-menus.php:21 includes/class-pprwph-menus.php:22
+msgid "Whitepaper slug"
+msgstr "Babosa de papel blanco"
+
+#: includes/class-pprwph-menus.php:30 includes/class-pprwph-menus.php:31
+msgid "Whitepaper title"
+msgstr "Título del libro blanco"
+
+#. Author of the plugin
+msgid "Wordpress-Heroes"
+msgstr "Wordpress-Heroes"
